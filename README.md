@@ -2,6 +2,9 @@
 
 `Create-react-app` & `Material-UI`
 
+Built version available at [http://nonbreakable.space/wage/](http://nonbreakable.space/wage/).
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -23,6 +26,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Builds the app for production to the `build` folder.<br>
 It correctly bundles React in production mode and optimizes the build for the best performance.
+
+Do not forget to change `homepage` in the `package.json` before `build` and deploy
 
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
