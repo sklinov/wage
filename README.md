@@ -1,4 +1,4 @@
-### Wage calculator
+# Wage calculator
 
 `Create-react-app` & `Material-UI`
 
